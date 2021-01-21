@@ -1,0 +1,42 @@
+.background-image {
+    background-image: url(./IMG_5042.JPG);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #7a752d;
+    background-size: cover;
+}
+.big-text {
+    color: #FFF;
+    text-shadow: 0 0 20px #ffef14;
+    text-align: center;
+    font-size: 50px
+}
+.caption {
+    display: block;
+    font-family: Impact;
+    font-size: 16px;
+    line-height: 14px;
+    margin-left: 20px;
+    padding: 10px;
+    position: center;
+    top: 100%;
+    width: 35%;
+    background-color: skyblue;
+    opacity: 0.9;
+    border-radius: 20px;
+  }
+  .p-1 {
+      color: #c91839;
+  }
+  .p-2 {
+      color: #ba7f1a;
+  }
+  .p-3 {
+      color: #732f02;
+  }
+  .p-4 {
+      color: #990ea1;
+  }
+  .audio-button {
+      position: center;
+  }
